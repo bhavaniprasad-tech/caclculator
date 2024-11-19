@@ -1,2 +1,3 @@
 # caclculator
-it is used to add , subtract , multiply and divide the numbers
+it is used to add , subtract , multiply and divide the numbers.
+Author - Bhavani prasad
